@@ -1,6 +1,6 @@
 Kaupasta:
 
-- maitoa
+- maito
 - jugurttia
 - kermaa
 - piimää
