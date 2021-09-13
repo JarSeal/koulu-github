@@ -1,0 +1,12 @@
+Kaupasta:
+
+- maitoa
+- jugurttia
+- kermaa
+- piimää
+- jäätelöä
+- creme fraiche
+- smetana
+- kermaviiliä
+- viiliä
+- laktoosipillereitä
